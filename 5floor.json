@@ -1,0 +1,1888 @@
+{
+  "data": [
+    {
+      "zone_identifier": "7265c9ee-4e2c-4491-ac5e-3a3c43916703",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                38.64665563479502,
+                42.63513463226782
+              ],
+              [
+                39.58650372341743,
+                37.20846445096237
+              ],
+              [
+                35.50942273894724,
+                36.737231016208824
+              ],
+              [
+                33.059423481338946,
+                37.10788234611031
+              ],
+              [
+                32.25469402013718,
+                41.66055960605954
+              ],
+              [
+                38.64665563479502,
+                42.63513463226782
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "7265c9ee-4e2c-4491-ac5e-3a3c43916703"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "fe814804-199d-4559-ad39-7d344ef84b89",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.029970768012234,
+                34.47742482651613
+              ],
+              [
+                33.04511559380702,
+                34.722003894369976
+              ],
+              [
+                33.213715628138715,
+                36.82273011049781
+              ],
+              [
+                35.415437730984124,
+                36.439749664700216
+              ],
+              [
+                36.22269116542088,
+                36.55027156656468
+              ],
+              [
+                36.029970768012234,
+                34.47742482651613
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "fe814804-199d-4559-ad39-7d344ef84b89"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "28982593-4c34-4647-8b89-bcff1bf10452",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                29.042335972023412,
+                11.348023286814842
+              ],
+              [
+                30.223963534689332,
+                11.206818557082332
+              ],
+              [
+                30.043506316965058,
+                9.485460072307808
+              ],
+              [
+                31.426601740207474,
+                9.324179342238054
+              ],
+              [
+                31.032517383763057,
+                5.417634512411786
+              ],
+              [
+                27.094762978833955,
+                5.814451077311524
+              ],
+              [
+                27.517731076418602,
+                9.753389397870247
+              ],
+              [
+                28.85765803276361,
+                9.606075823864874
+              ],
+              [
+                29.042335972023412,
+                11.348023286814842
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "28982593-4c34-4647-8b89-bcff1bf10452"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "867bddf0-2dea-48b1-bf1e-ecad9fedc353",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                52.17798900716154,
+                15.22038457389368
+              ],
+              [
+                49.46956662995725,
+                15.493260176356527
+              ],
+              [
+                49.14482854196903,
+                12.313641788773023
+              ],
+              [
+                48.00029664759375,
+                12.43114775574845
+              ],
+              [
+                48.6081266031179,
+                18.645474700878232
+              ],
+              [
+                52.461584018184105,
+                18.224546693860084
+              ],
+              [
+                52.17798900716154,
+                15.22038457389368
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "867bddf0-2dea-48b1-bf1e-ecad9fedc353"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "2fd269e3-0fd6-43e1-b399-a64a28187424",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                54.39432982610377,
+                2.8780567311260725
+              ],
+              [
+                58.41812031890955,
+                2.4630314066556167
+              ],
+              [
+                59.005298980890586,
+                8.082457940573157
+              ],
+              [
+                54.94601280391663,
+                8.49183174626598
+              ],
+              [
+                54.39432982610377,
+                2.8780567311260725
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "2fd269e3-0fd6-43e1-b399-a64a28187424"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "933929d8-d76c-4542-b0ef-0c4c24d87910",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                41.453240599832284,
+                19.297662985696668
+              ],
+              [
+                37.21813478892318,
+                19.754066574611407
+              ],
+              [
+                36.7020083208153,
+                14.351356682716562
+              ],
+              [
+                40.9642690516999,
+                13.912539326837697
+              ],
+              [
+                41.453240599832284,
+                19.297662985696668
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "933929d8-d76c-4542-b0ef-0c4c24d87910"
+        }
+      },
+      "created_at": "2019-04-18T10:23:00.206Z"
+    },
+    {
+      "zone_identifier": "6ef3faf2-e522-4f5c-b9b1-369b0e8a9d62",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                40.01150527168555,
+                37.25394923244931
+              ],
+              [
+                38.765479302503856,
+                43.70546146437839
+              ],
+              [
+                44.854403550905225,
+                44.706973834658406
+              ],
+              [
+                45.957973181857646,
+                38.095217211913884
+              ],
+              [
+                40.01150527168555,
+                37.25394923244931
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "6ef3faf2-e522-4f5c-b9b1-369b0e8a9d62"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "5d04adb9-bacd-44a1-90a0-daf28898336d",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                46.1586471007163,
+                38.14487743834379
+              ],
+              [
+                45.56921366505922,
+                41.61132831915824
+              ],
+              [
+                49.59480947593327,
+                42.211073184925866
+              ],
+              [
+                50.1695735814787,
+                38.751882963705974
+              ],
+              [
+                46.1586471007163,
+                38.14487743834379
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "5d04adb9-bacd-44a1-90a0-daf28898336d"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "57810045-3883-4031-b3a6-37cfed34d2a4",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                35.04831279406366,
+                51.057232563667725
+              ],
+              [
+                31.271998979714255,
+                50.484670859402115
+              ],
+              [
+                31.637632895677925,
+                48.33444592321137
+              ],
+              [
+                32.21894169860383,
+                45.11512472252754
+              ],
+              [
+                34.04562683086504,
+                45.41676625650961
+              ],
+              [
+                33.45265362662793,
+                48.6087279793351
+              ],
+              [
+                35.42844634973655,
+                48.927730203675054
+              ],
+              [
+                35.04831279406366,
+                51.057232563667725
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "57810045-3883-4031-b3a6-37cfed34d2a4"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "aacb422d-e989-46d9-8df0-7eaea69db699",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.048472200331624,
+                50.423679810184126
+              ],
+              [
+                31.962941421679076,
+                45.06646117356952
+              ],
+              [
+                27.58225913338899,
+                44.37765339700392
+              ],
+              [
+                26.643351235127174,
+                49.723315491675095
+              ],
+              [
+                31.048472200331624,
+                50.423679810184126
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "aacb422d-e989-46d9-8df0-7eaea69db699"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "9a5568ff-26f0-47a4-965a-d51eeca8161d",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.277326119792306,
+                49.03423782489696
+              ],
+              [
+                23.205671322698308,
+                43.67017015387611
+              ],
+              [
+                27.559874612848517,
+                44.38241137072079
+              ],
+              [
+                26.598582195268005,
+                49.73283144485683
+              ],
+              [
+                22.277326119792306,
+                49.03423782489696
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "9a5568ff-26f0-47a4-965a-d51eeca8161d"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "c531785e-5d02-4ec1-968c-c35156d3d600",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.577001855164006,
+                36.6087168514574
+              ],
+              [
+                36.0642890623249,
+                30.45403253414421
+              ],
+              [
+                38.92618347550288,
+                30.149396082500417
+              ],
+              [
+                39.57329449910604,
+                36.92825987639399
+              ],
+              [
+                36.577001855164006,
+                36.6087168514574
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "c531785e-5d02-4ec1-968c-c35156d3d600"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "e2aa518f-8d5a-4f98-a013-d6fcfa993c21",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.679102287806275,
+                35.041414538147976
+              ],
+              [
+                8.317195218908784,
+                31.338919175396892
+              ],
+              [
+                14.275838579570886,
+                30.70103211781981
+              ],
+              [
+                14.668675286546023,
+                34.4108133305623
+              ],
+              [
+                8.679102287806275,
+                35.041414538147976
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "e2aa518f-8d5a-4f98-a013-d6fcfa993c21"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "386291d4-1e53-4431-9650-111c2ed8ddfd",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                12.611383568737232,
+                41.499006500502574
+              ],
+              [
+                12.232842138667976,
+                37.850460413275236
+              ],
+              [
+                14.976810835641743,
+                37.54937925751323
+              ],
+              [
+                15.349351968481084,
+                41.20025219290865
+              ],
+              [
+                12.611383568737232,
+                41.499006500502574
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "386291d4-1e53-4431-9650-111c2ed8ddfd"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "c1732332-60de-4669-89fa-1ed57ef10374",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                9.399758419617958,
+                41.865722671411184
+              ],
+              [
+                12.319027566155441,
+                41.51939918828169
+              ],
+              [
+                11.93315042722499,
+                37.8763094928585
+              ],
+              [
+                9.026910476148108,
+                38.170158764902816
+              ],
+              [
+                9.399758419617958,
+                41.865722671411184
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "c1732332-60de-4669-89fa-1ed57ef10374"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "0f5120cb-1a3a-4287-b3a7-73fbaeb330b3",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                18.011415344528864,
+                48.31902622065394
+              ],
+              [
+                18.83132208677288,
+                44.017014199137655
+              ],
+              [
+                14.85549779724431,
+                43.43954919226628
+              ],
+              [
+                14.15421583291881,
+                47.69561967782535
+              ],
+              [
+                18.011415344528864,
+                48.31902622065394
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "0f5120cb-1a3a-4287-b3a7-73fbaeb330b3"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "e9cc3864-9259-47c2-9d18-26937074b96d",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.64121194067447,
+                47.557142779103174
+              ],
+              [
+                14.429410704124306,
+                43.70636916265238
+              ],
+              [
+                9.48164779136252,
+                42.92167728405285
+              ],
+              [
+                9.926415916947189,
+                47.02484385500842
+              ],
+              [
+                13.64121194067447,
+                47.557142779103174
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "e9cc3864-9259-47c2-9d18-26937074b96d"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "ca85a032-079f-4f08-9982-cafa753a5ff8",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                47.74064136183322,
+                53.15709592812086
+              ],
+              [
+                43.73071477628972,
+                52.52358517923161
+              ],
+              [
+                44.85693488531917,
+                46.15379515368183
+              ],
+              [
+                46.90476511020458,
+                46.51278858820387
+              ],
+              [
+                46.2474645003048,
+                50.09004405547045
+              ],
+              [
+                48.21663726707746,
+                50.377901833908844
+              ],
+              [
+                47.74064136183322,
+                53.15709592812086
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "ca85a032-079f-4f08-9982-cafa753a5ff8"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "6444e988-e14a-45b5-9e44-c4c25234a924",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                39.38833449085886,
+                51.78818596276111
+              ],
+              [
+                43.51160123520638,
+                52.48335678379673
+              ],
+              [
+                44.51041592869657,
+                46.931765684213666
+              ],
+              [
+                40.40038849010661,
+                46.29888089967358
+              ],
+              [
+                39.38833449085886,
+                51.78818596276111
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "6444e988-e14a-45b5-9e44-c4c25234a924"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "b5664c50-a437-4a4c-b8d4-61bac61a1836",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                39.33915223438683,
+                51.77693936418633
+              ],
+              [
+                40.373590748677074,
+                46.28287630151601
+              ],
+              [
+                36.242914578936116,
+                45.63162773829341
+              ],
+              [
+                35.265690455125565,
+                51.12058228394578
+              ],
+              [
+                39.33915223438683,
+                51.77693936418633
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "b5664c50-a437-4a4c-b8d4-61bac61a1836"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "61fb87d7-b790-4ee7-9691-46dd477a994c",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.432847323983957,
+                46.4050122180881
+              ],
+              [
+                20.10582589623733,
+                46.03340239153502
+              ],
+              [
+                20.580865174275587,
+                43.57991430927964
+              ],
+              [
+                22.86044030644566,
+                43.917156591730816
+              ],
+              [
+                22.432847323983957,
+                46.4050122180881
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "61fb87d7-b790-4ee7-9691-46dd477a994c"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "57ddf583-d06a-4e21-b09a-8616c38e0617",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.441036987940485,
+                46.663679283800114
+              ],
+              [
+                19.827748426486686,
+                46.266114837107885
+              ],
+              [
+                20.366801562872865,
+                43.34330623899537
+              ],
+              [
+                19.184863087276838,
+                43.12682212979277
+              ],
+              [
+                18.172652955174506,
+                48.341111584387335
+              ],
+              [
+                22.00461706255666,
+                48.9620000765146
+              ],
+              [
+                22.441036987940485,
+                46.663679283800114
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "57ddf583-d06a-4e21-b09a-8616c38e0617"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "0460837d-81a7-44a4-8536-95b06bdf5c63",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                26.797877349279585,
+                42.74032862815567
+              ],
+              [
+                29.534273755605675,
+                43.16007516245758
+              ],
+              [
+                30.002540741828174,
+                40.533369090919294
+              ],
+              [
+                27.319739727576447,
+                40.1456313246578
+              ],
+              [
+                26.797877349279585,
+                42.74032862815567
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "0460837d-81a7-44a4-8536-95b06bdf5c63"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "250247a2-1aca-42e0-9778-738f908245ab",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.043567527621136,
+                30.1706871279731
+              ],
+              [
+                38.884641674724264,
+                29.88701442095884
+              ],
+              [
+                38.33141257511299,
+                24.374187571376982
+              ],
+              [
+                35.54240929319427,
+                24.6731182476461
+              ],
+              [
+                36.043567527621136,
+                30.1706871279731
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "250247a2-1aca-42e0-9778-738f908245ab"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "11250810-3b19-40a2-b616-d01d0b58bede",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                15.477511826038125,
+                17.70674267642531
+              ],
+              [
+                15.211740441528125,
+                14.92892098705929
+              ],
+              [
+                18.080099485799764,
+                14.687405081577673
+              ],
+              [
+                18.338688923415422,
+                17.424985437300887
+              ],
+              [
+                15.477511826038125,
+                17.70674267642531
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "11250810-3b19-40a2-b616-d01d0b58bede"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "92bddc12-3a7e-4f10-8dbf-64ff2eceb2c3",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                14.336856299028172,
+                7.12188105009254
+              ],
+              [
+                18.301079319809567,
+                6.702917514941014
+              ],
+              [
+                18.827838614812208,
+                12.475160410506145
+              ],
+              [
+                17.70694797999241,
+                12.606805042974573
+              ],
+              [
+                17.420014725116506,
+                9.354809356418649
+              ],
+              [
+                14.58628599819369,
+                9.643008165761056
+              ],
+              [
+                14.336856299028172,
+                7.12188105009254
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "92bddc12-3a7e-4f10-8dbf-64ff2eceb2c3"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "48ff83dc-9698-4097-8ff5-77ca0eb350e9",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                7.541080135073067,
+                23.88318115350915
+              ],
+              [
+                7.105128166054556,
+                19.01580640391089
+              ],
+              [
+                13.129079749792671,
+                18.382526678749485
+              ],
+              [
+                13.570943835745137,
+                23.345254094242442
+              ],
+              [
+                7.541080135073067,
+                23.88318115350915
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "48ff83dc-9698-4097-8ff5-77ca0eb350e9"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "a744a5a5-2d1d-4e37-a116-d5a39a33706d",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                27.45054618855616,
+                11.515311692272093
+              ],
+              [
+                26.871484227286988,
+                5.839055770037524
+              ],
+              [
+                22.762468762395343,
+                6.248739677226627
+              ],
+              [
+                23.316748416275125,
+                12.002877962874658
+              ],
+              [
+                27.45054618855616,
+                11.515311692272093
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "a744a5a5-2d1d-4e37-a116-d5a39a33706d"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "a3e449a4-9e81-4c82-97d8-fd26e7cd4433",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                14.893683822763833,
+                12.713635448736351
+              ],
+              [
+                14.614780717540702,
+                9.935986496763036
+              ],
+              [
+                17.13755817695844,
+                9.694600754605819
+              ],
+              [
+                17.391779662050535,
+                12.458823246135974
+              ],
+              [
+                14.893683822763833,
+                12.713635448736351
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "a3e449a4-9e81-4c82-97d8-fd26e7cd4433"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "1bd55bae-dc95-428a-bcf3-da708ea7b006",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                32.0306326388739,
+                24.742104404292682
+              ],
+              [
+                38.29705020241052,
+                24.100992438291254
+              ],
+              [
+                37.95288630062781,
+                20.250489255837515
+              ],
+              [
+                37.002806979471906,
+                20.341538032490543
+              ],
+              [
+                36.609626006373574,
+                16.64316504290872
+              ],
+              [
+                31.263210238948922,
+                17.138794925700697
+              ],
+              [
+                32.0306326388739,
+                24.742104404292682
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "1bd55bae-dc95-428a-bcf3-da708ea7b006"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "cfd36921-7e23-4c5d-b3ff-7ac3f13af3c8",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                7.066895072123206,
+                18.7210137763193
+              ],
+              [
+                15.312946245543369,
+                17.906741968595192
+              ],
+              [
+                14.224315610859481,
+                7.084414749814058
+              ],
+              [
+                6.0748588345041785,
+                7.924985582797085
+              ],
+              [
+                7.066895072123206,
+                18.7210137763193
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "cfd36921-7e23-4c5d-b3ff-7ac3f13af3c8"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "fe9ae3a6-33f1-4a9d-b767-df3400b0acb8",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.57109671528867,
+                16.341655674181887
+              ],
+              [
+                34.10212147367599,
+                16.569935997161046
+              ],
+              [
+                33.73838302107971,
+                13.030877122256651
+              ],
+              [
+                36.19062617399217,
+                12.786657688659048
+              ],
+              [
+                36.57109671528867,
+                16.341655674181887
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "fe9ae3a6-33f1-4a9d-b767-df3400b0acb8"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "3922e82c-4f04-400a-bd2b-64caa3880858",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                18.81720246375793,
+                19.78189892863217
+              ],
+              [
+                18.327195832263378,
+                14.522356934437978
+              ],
+              [
+                22.302807876817724,
+                14.118412676897453
+              ],
+              [
+                22.83187012981023,
+                19.389367858460375
+              ],
+              [
+                18.81720246375793,
+                19.78189892863217
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "3922e82c-4f04-400a-bd2b-64caa3880858"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "367170b6-ff50-4f81-9f8e-3d90ddaefbf7",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                19.033082292997623,
+                12.501224999839273
+              ],
+              [
+                18.48438572365742,
+                6.7051403902123425
+              ],
+              [
+                22.740427590151075,
+                6.277168178383307
+              ],
+              [
+                23.32065330568422,
+                12.001448033606437
+              ],
+              [
+                19.033082292997623,
+                12.501224999839273
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "367170b6-ff50-4f81-9f8e-3d90ddaefbf7"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "73e1b938-cb67-4e79-a74c-e665fa6864d1",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                49.72526739730261,
+                15.15313999183859
+              ],
+              [
+                49.44382662378764,
+                12.42366683156084
+              ],
+              [
+                51.89654106817392,
+                12.189555018576792
+              ],
+              [
+                52.134756391759645,
+                14.905458229925864
+              ],
+              [
+                49.72526739730261,
+                15.15313999183859
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "73e1b938-cb67-4e79-a74c-e665fa6864d1"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "a7781ffd-6eb3-40b8-a2ad-70bb7b51b17b",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                40.83590165722949,
+                10.11234884255472
+              ],
+              [
+                40.52295932001298,
+                7.366537751418265
+              ],
+              [
+                42.94310917772515,
+                7.134897606859203
+              ],
+              [
+                43.20344620865102,
+                9.825857906142936
+              ],
+              [
+                40.83590165722949,
+                10.11234884255472
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "a7781ffd-6eb3-40b8-a2ad-70bb7b51b17b"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "e23f2009-bf88-489e-8c9f-0942d0e9c7df",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                40.245371964095035,
+                4.347409736085533
+              ],
+              [
+                43.98963487531438,
+                3.938531195440513
+              ],
+              [
+                44.58675855057063,
+                9.683967295245022
+              ],
+              [
+                43.48947499117549,
+                9.80807591888479
+              ],
+              [
+                43.189249622192996,
+                6.845735184872069
+              ],
+              [
+                40.50028197235337,
+                7.114665151851926
+              ],
+              [
+                40.245371964095035,
+                4.347409736085533
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "e23f2009-bf88-489e-8c9f-0942d0e9c7df"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "ca186638-411e-4393-9197-75cafacc6778",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                44.31740087634678,
+                3.916618365971555
+              ],
+              [
+                48.513139008190336,
+                3.493273608932464
+              ],
+              [
+                49.10145674974766,
+                9.224663514817369
+              ],
+              [
+                44.87820039843132,
+                9.649109668604611
+              ],
+              [
+                44.31740087634678,
+                3.916618365971555
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "ca186638-411e-4393-9197-75cafacc6778"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "04f7088e-9916-438c-b42c-38ebdf4143f5",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                54.04969471313964,
+                2.934714171619527
+              ],
+              [
+                48.53646325658562,
+                3.488530100960906
+              ],
+              [
+                49.142665160086956,
+                9.193989398604723
+              ],
+              [
+                54.605837093040265,
+                8.657869124752217
+              ],
+              [
+                54.04969471313964,
+                2.934714171619527
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "04f7088e-9916-438c-b42c-38ebdf4143f5"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "b8a03dd1-b3fc-450f-9a0a-b8342970dd9e",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                41.692769874171034,
+                19.34261962270372
+              ],
+              [
+                41.19064201914408,
+                13.83962484575944
+              ],
+              [
+                44.59408034253169,
+                13.478132361484525
+              ],
+              [
+                45.07636045935714,
+                19.017758795364525
+              ],
+              [
+                41.692769874171034,
+                19.34261962270372
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "b8a03dd1-b3fc-450f-9a0a-b8342970dd9e"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "27124888-47c5-4920-858f-18f72506afe9",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                48.31092818965268,
+                18.68694541668456
+              ],
+              [
+                47.812565378479306,
+                13.169567847130846
+              ],
+              [
+                44.62507802569612,
+                13.495192800463986
+              ],
+              [
+                45.10090754090187,
+                19.01736038145722
+              ],
+              [
+                48.31092818965268,
+                18.68694541668456
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "27124888-47c5-4920-858f-18f72506afe9"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "3f4885a4-f16e-4951-b53f-d33eb7551e22",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.93849571695489,
+                11.072763350080216
+              ],
+              [
+                36.011048019620084,
+                10.662091516957531
+              ],
+              [
+                35.42057897665081,
+                4.958847062474639
+              ],
+              [
+                31.339200035112583,
+                5.327992825756053
+              ],
+              [
+                31.93849571695489,
+                11.072763350080216
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "3f4885a4-f16e-4951-b53f-d33eb7551e22"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "c0f7ec52-384b-489e-b0f4-69a08ad88f3d",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.078201579408834,
+                10.647817587184933
+              ],
+              [
+                35.49214579795248,
+                4.965335895696717
+              ],
+              [
+                39.60741269057265,
+                4.528832212780506
+              ],
+              [
+                40.17755164809168,
+                10.253150467897854
+              ],
+              [
+                36.078201579408834,
+                10.647817587184933
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "c0f7ec52-384b-489e-b0f4-69a08ad88f3d"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "cad3971a-0512-4094-953c-512158736177",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                55.94030741115711,
+                39.58501236522591
+              ],
+              [
+                53.30326772567026,
+                39.195001032140745
+              ],
+              [
+                51.97995086109853,
+                46.73751990636848
+              ],
+              [
+                54.76591220857524,
+                47.18862841074329
+              ],
+              [
+                55.94030741115711,
+                39.58501236522591
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "cad3971a-0512-4094-953c-512158736177"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "ccdab7c7-53a7-4143-ad45-4f863850e11d",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                56.57282690976842,
+                54.56821456032454
+              ],
+              [
+                52.05654635471273,
+                53.8607661443451
+              ],
+              [
+                53.23641694709063,
+                46.93574537995055
+              ],
+              [
+                57.7040514857633,
+                47.659315643724874
+              ],
+              [
+                56.57282690976842,
+                54.56821456032454
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "ccdab7c7-53a7-4143-ad45-4f863850e11d"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    },
+    {
+      "zone_identifier": "d9994bc7-8156-4c35-9f18-1839c4b80f22",
+      "location_identifier": "dd68f9a3-f1be-44d0-911a-bcb42acc6a8f",
+      "geojson_feature": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                47.95718424876706,
+                53.20369694514471
+              ],
+              [
+                52.052154977395645,
+                53.84010633839707
+              ],
+              [
+                53.236416947701514,
+                46.93574538282454
+              ],
+              [
+                49.136836015024286,
+                46.27842292975769
+              ],
+              [
+                47.95718424876706,
+                53.20369694514471
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "location_part_role": "zone",
+          "zone_identifier": "d9994bc7-8156-4c35-9f18-1839c4b80f22"
+        }
+      },
+      "created_at": "2018-08-17T14:12:26.615Z"
+    }
+  ],
+  "meta": {
+    "metric": "cartesian",
+    "page": "1",
+    "limit": "100",
+    "total": "46"
+  }
+}
